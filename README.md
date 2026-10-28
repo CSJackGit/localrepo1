@@ -1,1 +1,3 @@
-# lecalrepo1
+# Lab
+
+A simple CSS program.
